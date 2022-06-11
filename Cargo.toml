@@ -7,3 +7,6 @@ edition = "2021"
 
 [dependencies]
 bevy = "0.7"
+bevy_egui = "0.13"
+bevy_mod_picking = "0.7"
+bevy_prototype_lyon = "0.5"
